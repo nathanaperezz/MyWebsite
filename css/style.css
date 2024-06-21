@@ -1,0 +1,49 @@
+
+
+#imgHawaii {
+  width: 60%;
+  height: auto;
+
+}
+
+
+ul {
+  list-style: none;
+  background-color: darkseagreen;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  color: beige;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: seagreen;
+}
+
+.dates {
+  color: #555555;
+  font-style: italic;
+}
+
+h1 {
+
+}
+
+section {
+  border-style: solid;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+
