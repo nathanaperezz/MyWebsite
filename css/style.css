@@ -1,7 +1,7 @@
 
 
 #imgHawaii {
-  width: 60%;
+  width: 40%;
   height: auto;
 
 }
@@ -44,6 +44,31 @@ section {
   border-style: solid;
   border-radius: 5px;
   padding: 5px;
+  margin: 5px;
 }
 
+section.projectSection {
+  text-align: center;
+}
 
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a section:hover {
+  background-color: whitesmoke;
+}
+
+header {
+  margin-bottom: 20px
+}
+
+footer {
+  margin-top: 40px;
+}
+
+footer nav {
+  text-align: center;
+  align-content: center;
+}
